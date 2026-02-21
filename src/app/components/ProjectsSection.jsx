@@ -136,7 +136,7 @@ const ProjectsSection = () => {
         <div className="text-center mt-16">
           <p className="text-gray-400 mb-6">Want to see more of my work?</p>
           <a
-            href="https://github.com/yourusername"
+            href="https://github.com/umeshh-kuumar"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center px-8 py-4 rounded-full bg-gradient-to-r from-blue-500 to-purple-600 hover:from-blue-600 hover:to-purple-700 text-white font-semibold text-lg transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl"
