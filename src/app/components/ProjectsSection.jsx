@@ -9,7 +9,7 @@ const projectsData = [
   {
     id: 1,
     title: "MOCKMATE",
-    description: "Project 1 decription",
+    description: "An AI-powered mock interview platform that lets users practice real interview questions with instant feedback and performance insights.",
     image: "/images/projects/image.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Umesh-kumarr/ai-mock-interview.git",
@@ -18,7 +18,7 @@ const projectsData = [
   {
     id: 2,
     title: "INTELLICV",
-    description: "Project 2 decription",
+    description: "A clean, modern resume builder that helps users create professional CVs quickly with customizable templates and easy editing.",
     image: "/images/projects/image1.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Umesh-kumarr/intellicv.git",
