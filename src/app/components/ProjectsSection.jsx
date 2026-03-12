@@ -8,6 +8,15 @@ import { motion, useInView } from "framer-motion";
 const projectsData = [
   {
     id: 1,
+    title: "Task Manager",
+    description: "A MERN stack task management platform that allows users to create, organize, and track tasks efficiently with secure authentication and real-time task management features.",
+    image: "/images/projects/image5.png",
+    tag: ["All", "Web"],
+    gitUrl: "https://github.com/umeshh-kuumar/Task-Manager",
+    previewUrl: "https://task-managerpro.vercel.app",
+  },
+  {
+    id: 2,
     title: "MOCKMATE",
     description: "An AI-powered mock interview platform that lets users practice real interview questions with instant feedback and performance insights.",
     image: "/images/projects/image.png",
@@ -16,7 +25,7 @@ const projectsData = [
     previewUrl: "https://ai-mock-interview-six-ashen.vercel.app/",
   },
   {
-    id: 2,
+    id: 3,
     title: "INTELLICV",
     description: "A clean, modern resume builder that helps users create professional CVs quickly with customizable templates and easy editing.",
     image: "/images/projects/image1.png",
@@ -25,7 +34,7 @@ const projectsData = [
     previewUrl: "https://intellicv.vercel.app/",
   },
   {
-    id: 3,
+    id: 4,
     title: "PORTFOLIO WEBSITE",
     description: "A modern portfolio website built with Next.js and Tailwind CSS, showcasing my skills, projects, and achievements. Designed for responsiveness and smooth user experience. Features interactive sections and a clean, professional layout",
     image: "/images/projects/image2.png",
@@ -34,7 +43,7 @@ const projectsData = [
     previewUrl: "https://prodigy-wd-4-hazel.vercel.app/",
   },
   {
-    id: 4,
+    id: 5,
     title: "Weather App",
     description: "A clean, responsive weather dashboard that lets users search for any city and instantly view current weather conditions and temperature in a simple, user-friendly interface.",
     image: "/images/projects/image3.png",
@@ -43,7 +52,7 @@ const projectsData = [
     previewUrl: "https://weather-project-nu-lemon.vercel.app/",
   },
   {
-    id: 5,
+    id: 6,
     title: "TO DO LIST",
     description: "A responsive to-do list app that lets users add, complete, and delete tasks with real-time updates.",
     image: "/images/projects/image4.png",
@@ -51,15 +60,6 @@ const projectsData = [
     gitUrl: "https://github.com/umeshh-kuumar/to-do-list-project",
     previewUrl: "https://to-do-list-project-beta-five.vercel.app/",
   },
-  // {
-  //   id: 6,
-  //   title: "snjdsnh",
-  //   description: "Project 6 decription",
-  //   image: "/images/projects/6.png",
-  //   tag: ["All", "Web"],
-  //   gitUrl: "/",
-  //   previewUrl: "/",
-  // },
 ];
 
 const ProjectsSection = () => {
