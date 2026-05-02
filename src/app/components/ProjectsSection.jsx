@@ -22,7 +22,7 @@ const projectsData = [
     image: "/images/projects/image.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Umesh-kumarr/ai-mock-interview.git",
-    previewUrl: "https://ai-mock-interview-six-ashen.vercel.app/",
+    previewUrl: "https://ai-mock-interview-alpha-dun.vercel.app/",
   },
   {
     id: 3,

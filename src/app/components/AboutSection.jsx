@@ -49,6 +49,19 @@ const TAB_DATA = [
             <span className="bg-gradient-to-r from-pink-500/20 to-pink-400/10 border border-pink-400/30 text-pink-200 px-3 py-1.5 rounded-md text-sm font-medium hover:border-pink-300/60 hover:bg-pink-500/30 transition-all duration-200">REST APIs</span>
           </div>
         </div>
+
+        {/* AI Tools */}
+        <div className="border-l-4 border-orange-400 pl-4">
+          <h4 className="font-semibold text-orange-400 mb-3 text-sm uppercase tracking-wider">AI Tools</h4>
+          <div className="flex flex-wrap gap-2">
+            <span className="bg-gradient-to-r from-orange-500/20 to-orange-400/10 border border-orange-400/30 text-orange-200 px-3 py-1.5 rounded-md text-sm font-medium hover:border-orange-300/60 hover:bg-orange-500/30 transition-all duration-200">Claude</span>
+            <span className="bg-gradient-to-r from-orange-500/20 to-orange-400/10 border border-orange-400/30 text-orange-200 px-3 py-1.5 rounded-md text-sm font-medium hover:border-orange-300/60 hover:bg-orange-500/30 transition-all duration-200">Cursor</span>
+            <span className="bg-gradient-to-r from-orange-500/20 to-orange-400/10 border border-orange-400/30 text-orange-200 px-3 py-1.5 rounded-md text-sm font-medium hover:border-orange-300/60 hover:bg-orange-500/30 transition-all duration-200">Antigravity</span>
+            <span className="bg-gradient-to-r from-orange-500/20 to-orange-400/10 border border-orange-400/30 text-orange-200 px-3 py-1.5 rounded-md text-sm font-medium hover:border-orange-300/60 hover:bg-orange-500/30 transition-all duration-200">Codex</span>
+            <span className="bg-gradient-to-r from-orange-500/20 to-orange-400/10 border border-orange-400/30 text-orange-200 px-3 py-1.5 rounded-md text-sm font-medium hover:border-orange-300/60 hover:bg-orange-500/30 transition-all duration-200">ChatGPT</span>
+            <span className="bg-gradient-to-r from-orange-500/20 to-orange-400/10 border border-orange-400/30 text-orange-200 px-3 py-1.5 rounded-md text-sm font-medium hover:border-orange-300/60 hover:bg-orange-500/30 transition-all duration-200">GitHub Copilot</span>
+          </div>
+        </div>
       </div>
     ),
   },
