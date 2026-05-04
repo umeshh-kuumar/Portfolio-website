@@ -112,7 +112,7 @@ const TAB_DATA = [
             </div>
             <div className="flex flex-col items-end ml-4">
               <span className="text-xs font-mono text-gray-500 whitespace-nowrap">
-                Nov 2025
+                Nov 2024
               </span>
               <div className="mt-2 inline-block px-2 py-1 bg-lime-500/20 border border-lime-400/40 rounded text-xs text-lime-200 font-medium">
                 Verified
@@ -207,7 +207,7 @@ const AboutSection = () => {
             About <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-500">Me</span>
           </h2>
           <p className="text-gray-400 text-base lg:text-lg max-w-3xl mx-auto">
-            Hi! I'm Umesh, a passionate full-stack developer who loves building interactive, user-focused web applications. I thrive on solving real-world problems with clean code and modern technologies, specializing in creating scalable, maintainable, and beautiful digital experiences. Driven by curiosity and a desire to make a positive impact through technology, I believe in continuous learning and enjoy collaborating in dynamic, team-oriented environments.
+            Hi! I&apos;m Umesh, a passionate full-stack developer who loves building interactive, user-focused web applications. I thrive on solving real-world problems with clean code and modern technologies, specializing in creating scalable, maintainable, and beautiful digital experiences. Driven by curiosity and a desire to make a positive impact through technology, I believe in continuous learning and enjoy collaborating in dynamic, team-oriented environments.
           </p>
         </div>
         <div className="grid lg:grid-cols-2 gap-12 items-center">

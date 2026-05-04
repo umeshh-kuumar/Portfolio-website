@@ -21,7 +21,7 @@ const projectsData = [
     description: "An AI-powered mock interview platform that lets users practice real interview questions with instant feedback and performance insights.",
     image: "/images/projects/image.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/Umesh-kumarr/ai-mock-interview.git",
+    gitUrl: "https://github.com/umeshh-kuumar/ai-mock-interview.git",
     previewUrl: "https://ai-mock-interview-alpha-dun.vercel.app/",
   },
   {
@@ -30,7 +30,7 @@ const projectsData = [
     description: "A clean, modern resume builder that helps users create professional CVs quickly with customizable templates and easy editing.",
     image: "/images/projects/image1.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/Umesh-kumarr/intellicv.git",
+    gitUrl: "https://github.com/umeshh-kuumar/intellicv.git",
     previewUrl: "https://intellicv.vercel.app/",
   },
   {

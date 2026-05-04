@@ -28,7 +28,7 @@ const HeroSection = () => {
                     </motion.div>
                     <h1 className="text-white  mb-6 text-2xl sm:text-3xl lg:text-4xl xl:text-5xl font-bold leading-tight">
                         <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-purple-500 to-pink-500">
-                            Hi, I'm{" "}
+                            Hi, I&apos;m{" "}
                         </span>
                         <br />
                         <TypeAnimation
